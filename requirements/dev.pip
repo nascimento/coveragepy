@@ -7,7 +7,7 @@
 pip==19.2.1
 virtualenv==16.5.0
 
-pluggy==0.12.0
+pluggy==0.13.0
 
 # PyPI requirements for running tests.
 -r tox.pip
@@ -15,7 +15,7 @@ pluggy==0.12.0
 
 # for linting.
 greenlet==0.4.15
-pylint==2.3.1
+pylint==2.4.2
 check-manifest==0.38
 readme_renderer==24.0
 
